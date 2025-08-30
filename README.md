@@ -19,7 +19,7 @@
 ***
 ## Setup & Usage
 ### 1️⃣ Install dependencies
-- https://github.com/Sudip-8345/MediMind-Assistant.git
+- git clone https://github.com/Sudip-8345/MediMind-Assistant.git
 - cd MediMind-Assistant
 - pip install -r requirements.txt
 
