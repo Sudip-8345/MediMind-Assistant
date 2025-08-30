@@ -12,7 +12,7 @@
 - LangChain, langchain-Openai (GPT-OSS 120B)
 - Transformers (Hugging Face)
 - PyTorch
-- Spacy, SciSpacy
+- Spacy, SciSpacy (en_core_sci_md)
 - Streamlit
 - Scikit-learn
 - Pandas / NumPy
