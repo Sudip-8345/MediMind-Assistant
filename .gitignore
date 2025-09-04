@@ -289,17 +289,18 @@ Desktop.ini
 # dotenv
 .env
 .env.*
+myenv-3-10/
 
 # HuggingFace/transformers and spaCy models
 mymodel/
 medical_nlp_model/
 sentiment_model/
 sci_sm100k/
+sci_md_300k/
 *.pt
 *.pth
 *.bin
 
 # Any other large model directories
 models/
-
 instruction.pdf
